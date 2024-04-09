@@ -9,7 +9,8 @@ This mod was originally made by <a href="https://github.com/SamSWAT911">SamSWAT9
 
 In their absence, I have decided to update his CTSFO mod for 3.8. 
   
-![380](https://github.com/toxicspike/SamSWAT.COD.JW-GROM.Fixed/assets/10299219/1ad985bc-a685-4614-a8e7-d38cc706895c)
+![145](https://github.com/toxicspike/SamSWAT.COD.CTSFO.Fixed/assets/10299219/ed2dcd5c-6877-49c1-8f31-50d17deb79c6)
+
 
 # MIL-SIM: CTSFO
 
