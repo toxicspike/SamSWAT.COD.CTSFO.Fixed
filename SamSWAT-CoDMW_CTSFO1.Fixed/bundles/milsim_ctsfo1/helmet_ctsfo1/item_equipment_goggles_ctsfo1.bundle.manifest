@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2401118192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4912dff98c6e7b477536657de0b880f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b117be60db13213940716a338be9acba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9d5b91263573944b88b817ace479fd1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fe47977d45be70429c3064ae90be517, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/content/milsim_ctsfo1/helmet_ctsfo1/goggles_ctsfo1/item_equipment_goggles_ctsfo1.prefab
+Dependencies:
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/assets/content/milsim_ctsfo1/milsim_ctsfo1_st.bundle
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/cubemaps
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/shaders

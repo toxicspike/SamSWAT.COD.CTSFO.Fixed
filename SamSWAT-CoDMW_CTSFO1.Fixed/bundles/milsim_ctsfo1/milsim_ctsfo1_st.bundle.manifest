@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1417743728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea4413cf9d61036c2bfe641f24d06507
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b80ac7f504b7744dd9b0b70f67e75892
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+Assets:
+- Assets/content/milsim_ctsfo1/milsim_ctsfo1_st/body_mp_milsim_ctsfo_1_1_lod0_g.tga
+- Assets/content/milsim_ctsfo1/milsim_ctsfo1_st/body_mp_milsim_ctsfo_1_1_lod0_d.tga
+- Assets/content/milsim_ctsfo1/helmet_ctsfo1/Texture2D/ctsfo_patch_h_11_g.tga
+- Assets/content/milsim_ctsfo1/milsim_ctsfo1_st/body_mp_milsim_ctsfo_1_1_lod1_d.tga
+- Assets/content/milsim_ctsfo1/helmet_ctsfo1/Texture2D/ctsfo_patch_h_11_d.tga
+- Assets/physicsmaterials/resources/loot.asset
+- Assets/content/milsim_ctsfo1/helmet_ctsfo1/Material/ctsfo_patch_h_11.mat
+- Assets/content/milsim_ctsfo1/helmet_ctsfo1/Texture2D/ctsfo_patch_h_11_n.tga
+- Assets/content/milsim_ctsfo1/milsim_ctsfo1_st/mp_milsim_ctsfo_1_LOD0.mat
+- Assets/content/milsim_ctsfo1/milsim_ctsfo1_st/body_mp_milsim_ctsfo_1_1_lod0_n.tga
+- Assets/content/milsim_ctsfo1/milsim_ctsfo1_st/mp_milsim_ctsfo_1_LOD1.mat
+Dependencies:
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/cubemaps
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/shaders

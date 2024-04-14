@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2475792811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5c0341a867ba8dea23c8b82a6dbcd5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2e008f5a042c76e0d2eefdf03d93ecce
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9d5b91263573944b88b817ace479fd1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e0c9b8291d67304884ab9d4d812bb95, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ef14592050a4e445bf1f30593fc5cce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e37789985213a9747bba024e0f710706, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/content/milsim_ctsfo1/helmet_ctsfo1/balaclava_ctsfo1/item_equipment_facecover_balaclava_ctsfo1.prefab
+Dependencies:
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/assets/content/milsim_ctsfo1/milsim_ctsfo1_st.bundle
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/cubemaps
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/shaders

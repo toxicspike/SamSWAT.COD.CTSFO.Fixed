@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2377124263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aaaa9a0a5449589ef48f2e2b5c2a12c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 96cab1ad0fadc289e435afec1903a697
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9d5b91263573944b88b817ace479fd1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fe47977d45be70429c3064ae90be517, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/content/milsim_ctsfo1/item_equipment_glasses_ctsfo1/item_equipment_glasses_ctsfo1.prefab
+Dependencies:
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/assets/content/milsim_ctsfo1/helmet_ctsfo1/item_equipment_goggles_ctsfo1.bundle
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/assets/content/milsim_ctsfo1/milsim_ctsfo1_st.bundle

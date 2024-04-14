@@ -1,0 +1,100 @@
+{
+  "manifest": [
+    {
+      "key": "milsim_ctsfo1/milsim_ctsfo1_st.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/upperbody_ctsfo1.bundle",
+      "dependencyKeys": [
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/hands_ctsfo1.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "assets/content/hands/usec/materials/watch_usec_textures",
+        "assets/content/textures/holemanager/round_spec_mask.bundle",
+        "assets/content/hands/bear/bear_watch.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/pants_ctsfo1.bundle",
+      "dependencyKeys": [
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/item_equipment_armor_ctsfo1.bundle",
+      "dependencyKeys": [
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/helmet_ctsfo1/item_equipment_helmet_ctsfo1.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/helmet_ctsfo1/item_equipment_headset_ctsfo1.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/helmet_ctsfo1/item_equipment_helmet_battery_ctsfo1.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/helmet_ctsfo1/item_equipment_helmet_strobe_ctsfo1.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/item_equipment_facecover_balaclava_ctsfo1.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/helmet_ctsfo1/item_equipment_goggles_ctsfo1.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle"
+      ]
+    },
+    {
+      "key": "milsim_ctsfo1/item_equipment_glasses_ctsfo1.bundle",
+      "dependencyKeys": [
+        "milsim_ctsfo1/milsim_ctsfo1_st.bundle",
+        "milsim_ctsfo1/helmet_ctsfo1/item_equipment_goggles_ctsfo1.bundle"
+      ]
+    }
+  ]
+}

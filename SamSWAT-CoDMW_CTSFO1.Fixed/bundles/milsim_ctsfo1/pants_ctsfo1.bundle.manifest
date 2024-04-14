@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 957915159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e02c4f914f9e867e4e91b6aa3458a27c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 133699c79eac0b3920089f34782f46a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ef14592050a4e445bf1f30593fc5cce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e56ea86a30486e14bbff12767b8b4287, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 279009aae8c42004a801670e763a277b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/content/milsim_ctsfo1/pants_ctsfo1/pants_ctsfo1.prefab
+Dependencies:
+- D:/Program Files/Unity Hub/Projects/Escape From Tarkov AssetBundles/StreamingAssets/assets/content/milsim_ctsfo1/milsim_ctsfo1_st.bundle

@@ -1,0 +1,147 @@
+{
+    "CTSFO1HANDS": {
+        "_id": "CTSFO1HANDS",
+        "_name": "CTSFO1HANDS",
+        "_parent": "5cc086a314c02e000c6bea69",
+        "_type": "Item",
+        "_props": {
+            "Name": "DefaultBearHands",
+            "ShortName": "DefaultBearHands",
+            "Description": "DefaultBearHands",
+            "Side": [
+                "Bear",
+                "Usec"
+            ],
+            "BodyPart": "Hands",
+            "Prefab": {
+                "path": "milsim_ctsfo1/hands_ctsfo1.bundle",
+                "rcid": ""
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "IntegratedArmorVest": false,
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cc0876314c02e000c6bea6b"
+    },
+    "CTSFO1UPPERBODY": {
+        "_id": "CTSFO1UPPERBODY",
+        "_name": "CTSFO1UPPERBODY",
+        "_parent": "5cc0868e14c02e000c6bea68",
+        "_type": "Item",
+        "_props": {
+            "Name": "DefaultUsecBody",
+            "ShortName": "DefaultUsecBody",
+            "Description": "DefaultUsecBody",
+            "Side": [
+                "Bear",
+                "Usec"
+            ],
+            "BodyPart": "Body",
+            "Prefab": {
+                "path": "milsim_ctsfo1/upperbody_ctsfo1.bundle",
+                "rcid": ""
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "IntegratedArmorVest": false,
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cde95d97d6c8b647a3769b0"
+    },
+    "CTSFO1UPPERBODYSUIT": {
+        "_id": "CTSFO1UPPERBODYSUIT",
+        "_name": "CTSFO1UPPERBODYSUIT",
+        "_parent": "5cd944ca1388ce03a44dc2a4",
+        "_type": "Item",
+        "_props": {
+            "Name": "DefaultBearLowerSuite",
+            "ShortName": "DefaultBearLowerSuite",
+            "Description": "DefaultBearLowerSuite",
+            "Side": [
+                "Bear",
+                "Usec"
+            ],
+            "AvailableAsDefault": false,
+            "Body": "CTSFO1UPPERBODY",
+            "Hands": "CTSFO1HANDS"
+        },
+        "_proto": "5cd946231388ce000d572fe3"
+    },
+    "CTSFO1PANTS": {
+        "_id": "CTSFO1PANTS",
+        "_name": "CTSFO1PANTS",
+        "_parent": "5cc0869814c02e000a4cad94",
+        "_type": "Item",
+        "_props": {
+            "Name": "DefaultUsecFeet",
+            "ShortName": "DefaultUsecFeet",
+            "Description": "DefaultUsecFeet",
+            "Side": [
+                "Bear",
+                "Usec"
+            ],
+            "BodyPart": "Feet",
+            "Prefab": {
+                "path": "milsim_ctsfo1/pants_ctsfo1.bundle",
+                "rcid": ""
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "IntegratedArmorVest": false,
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cde95ef7d6c8b04713c4f2d"
+    },
+    "CTSFO1PANTSSUIT": {
+        "_id": "CTSFO1PANTSSUIT",
+        "_name": "CTSFO1PANTSSUIT",
+        "_parent": "5cd944d01388ce000a659df9",
+        "_type": "Item",
+        "_props": {
+            "Name": "DefaultBearLowerSuite",
+            "ShortName": "DefaultBearLowerSuite",
+            "Description": "DefaultBearLowerSuite",
+            "Side": [
+                "Bear",
+                "Usec"
+            ],
+            "AvailableAsDefault": false,
+            "Feet": "CTSFO1PANTS"
+        },
+        "_proto": "5cd946231388ce000d572fe3"
+    }
+}

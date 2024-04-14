@@ -1,0 +1,44 @@
+{
+	"suits": [
+		{
+			"_id": "CTSFO1UPPERBODY",
+			"tid": "5ac3b934156ae10c4430e83c",
+			"suiteId": "CTSFO1UPPERBODYSUIT",
+			"isActive": true,
+			"requirements": {
+				"loyaltyLevel": 1,
+				"profileLevel": 1,
+				"standing": 0,
+				"skillRequirements": [],
+				"questRequirements": [],
+				"itemRequirements": [
+					{
+						"count": 77,
+						"_tpl": "5449016a4bdc2d6f028b456f",
+						"onlyFunctional": true
+					}
+				]
+			}
+		},
+		{
+			"_id": "CTSFO1PANTS",
+			"tid": "5ac3b934156ae10c4430e83c",
+			"suiteId": "CTSFO1PANTSSUIT",
+			"isActive": true,
+			"requirements": {
+				"loyaltyLevel": 1,
+				"profileLevel": 1,
+				"standing": 0,
+				"skillRequirements": [],
+				"questRequirements": [],
+				"itemRequirements": [
+					{
+						"count": 77,
+						"_tpl": "5449016a4bdc2d6f028b456f",
+						"onlyFunctional": true
+					}
+				]
+			}
+		}
+	]
+}
