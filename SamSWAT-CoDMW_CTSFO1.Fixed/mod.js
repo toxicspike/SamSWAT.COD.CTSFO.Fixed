@@ -5,7 +5,7 @@ let mydb;
 class Mod {
     async postDBLoadAsync(container) {
         const db = container.resolve("DatabaseServer").getTables();
-        const modLoader = container.resolve("PreAkiModLoader");
+        const modLoader = container.resolve("PreSptModLoader");
         const importerUtil = container.resolve("ImporterUtil");
         const locales = db.locales.global;
         const items = db.templates.items;

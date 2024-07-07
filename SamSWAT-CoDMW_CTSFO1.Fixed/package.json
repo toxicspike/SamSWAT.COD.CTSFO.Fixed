@@ -2,8 +2,8 @@
   "name": "Call of Duty: Warzone - CTSFO I",
   "author": "SamSWAT",
   "license": "NCSA Open Source",
-  "version": "3.8.0",
+  "version": "3.9.0",
+  "sptVersion": "~3.9",
   "main": "mod.js",
-  "isBundleMod": true,
-  "akiVersion": "~3.8"
+  "isBundleMod": true
 }
